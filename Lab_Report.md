@@ -2,8 +2,7 @@
 # Part 1
 
 **Code:**
-4
-​
+
 ```
 import java.io.IOException;
 6
