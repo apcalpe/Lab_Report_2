@@ -183,5 +183,3 @@ This fixes the problem because now, the element that is being replaced is the el
 # Part 3
 
 Something that I learned from lab is how to make a server and write a code that could make changes to that server. In that topic, I learned how to access urls and modify them to fit my needs, like what queries I want to put and what the path should be. I also learned how to run that server on my computer with my account.
-
-This fixes the problem because now, the element that is being replaced is the element in the new array with the element from the original array unlike before where the code is just returning the original array with elements replaced with 0s.
